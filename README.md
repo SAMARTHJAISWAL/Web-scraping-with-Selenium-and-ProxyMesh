@@ -27,7 +27,7 @@ cd twitter-trends-scraper
 ### 2. Create Virtual Environment
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate 
 ```
 
 ### 3. Install Dependencies
@@ -70,6 +70,3 @@ python run.py
 ## Limitations
 - Requires active Twitter login
 - Dependent on Twitter's HTML structure
-
-## License
-MIT License
